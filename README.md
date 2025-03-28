@@ -3,6 +3,11 @@
 `docker-compose -f prod.yml up -d --build`
 `docker-compose -f prod.yml logs app`
 
+yoki 
+`docker compose -f prod.yml up -d --build`
+`docker compose -f prod.yml logs app`
+
+
 # Request in body
 
 `base_url/compare-faces/`
